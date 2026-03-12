@@ -1,1 +1,1 @@
-# sacweodias-assets-2026
+Assets directory for the 2026 events of SacWeOdias!
